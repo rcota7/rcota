@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Richard! </h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+  Working on it...
+
+<h2>📺 Certificates</h2>
+  Soon...
+
 
 <!--
 **rcota7/rcota7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
